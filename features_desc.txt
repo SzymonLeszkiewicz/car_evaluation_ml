@@ -1,0 +1,14 @@
+<bound method DataFrame.to_string of       buying  maint  door  persons  lug_boot  safety  cls
+0          3      3     0        0         2       1    2
+1          3      3     0        0         2       2    2
+2          3      3     0        0         2       0    2
+3          3      3     0        0         1       1    2
+4          3      3     0        0         1       2    2
+...      ...    ...   ...      ...       ...     ...  ...
+1723       1      1     3        2         1       2    1
+1724       1      1     3        2         1       0    3
+1725       1      1     3        2         0       1    2
+1726       1      1     3        2         0       2    1
+1727       1      1     3        2         0       0    3
+
+[1728 rows x 7 columns]>
